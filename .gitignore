@@ -102,3 +102,8 @@ doc/api/
 .flutter-plugins
 .flutter-plugins-dependencies
 *.code-workspace
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+/.vs/ProjectSettings.json
+/.vs/dart-mailgun/v17/.wsuo
+/.vs/dart-mailgun/FileContentIndex/c057e561-ac4c-4bc5-96fb-49eac8eae6ee.vsidx
