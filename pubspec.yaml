@@ -2,16 +2,16 @@ name: dart_mailgun
 description: >-
   A Dart package for interfacing with the Mailgun API
   Includes support for MIME messages.
-version: 1.0.3
-repository: https://github.com/beccauwu/dart-mailgun
-issue_tracker: https://github.com/beccauwu/dart-mailgun/issues
-documentation: https://docs.perttula.xyz/dart-mailgun/
+version: 1.0.4
+repository: https://github.com/sevysevy/dart-mailgun/
+issue_tracker: https://github.com/sevysevy/dart-mailgun/issues
+documentation: https://github.com/sevysevy/dart-mailgun/
 
 environment:
   sdk: ">=2.17.0 <3.0.0"
 
 dependencies:
-  http: ^0.13.0
+  http: ^1.1.0
 dev_dependencies:
   test: ^1.22.2
   environment_config: ^3.1.0
